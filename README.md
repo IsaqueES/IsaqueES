@@ -36,9 +36,9 @@ Bem-vindo ao meu perfil no GitHub! Sou [sua profissão ou área de estudo] apaix
 -->
 
 ## 📈 Estatísticas
-<p align="center">
+
 ![Estatísticas do GitHub](https://github-readme-stats.vercel.app/api?username=IsaquePy&show_icons=true&theme=radical)
-</p>
+
 ## 🤝 Contribuições
 
 Sinta-se à vontade para contribuir para os meus projetos! Agradeço qualquer ajuda e feedback.
