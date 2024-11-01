@@ -7,9 +7,13 @@ Bem-vindo ao meu perfil no GitHub! Sou [sua profissão ou área de estudo] apaix
 - 📍 Localização: Brasil / Jacareí-SP
 - 🎓 Formação: Cursando TI integrado ao ensino médio
 - 💻 Tecnologias que uso:
-  - Python
-  - JS/HTML/CSS
-  - Express/Sequelize
+  ![Python](https://img.shields.io/badge/Python-Programming%20Language-blue?style=for-the-badge&logo=python)
+  ![JavaScript](https://img.shields.io/badge/JavaScript-ES6-yellow?style=for-the-badge&logo=javascript)
+  ![HTML](https://img.shields.io/badge/HTML5-HTML5-orange?style=for-the-badge&logo=html5)
+  ![CSS](https://img.shields.io/badge/CSS3-CSS3-blue?style=for-the-badge&logo=css3)
+  ![Express](https://img.shields.io/badge/Express.js-Framework-green?style=for-the-badge&logo=express)
+  ![Sequelize](https://img.shields.io/badge/Sequelize-ORM-blue?style=for-the-badge&logo=sequelize)
+
 
 ## 🚀 Projetos em Destaque
 
