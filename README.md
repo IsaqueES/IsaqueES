@@ -15,7 +15,14 @@ Bem-vindo ao meu perfil no GitHub! Sou [sua profissão ou área de estudo] apaix
 
 ### [[Nome do Projeto 1](link-do-projeto)](https://github.com/IsaquePy/TutorTime.git)
 - Descrição: O TutorTime é uma plataforma dedicada a facilitar a gestão de monitorias no campus do IFSP. Com um design intuitivo, o site permite que alunos e professores se conectem de forma eficiente, otimizando o processo de agendamento e acompanhamento das sessões de monitoria. Os usuários podem visualizar informações sobre disciplinas, monitores e horários disponíveis, garantindo que todos tenham acesso a suporte acadêmico de qualidade. Com o TutorTime, sua jornada de aprendizado se torna mais acessível e organizada!
-- Tecnologias utilizadas: ![Linguagens](https://img.shields.io/badge/languages-python%20%26%20javascript-blue)
+- Tecnologias utilizadas: 
+![JavaScript](https://img.shields.io/badge/javascript-ES6-yellow)
+![HTML](https://img.shields.io/badge/html5-HTML5-orange)
+![Sequelize](https://img.shields.io/badge/sequelize-ORM-blue)
+![Handlebars](https://img.shields.io/badge/handlebars-Template-blue)
+![Express](https://img.shields.io/badge/express.js-Framework-green)
+![CSS](https://img.shields.io/badge/css3-CSS3-blue)
+![Tailwind](https://img.shields.io/badge/tailwindcss-Framework-blue)
 
 
 
