@@ -1,6 +1,6 @@
 # Olá, sou [Seu Nome] 👋
 
-Bem-vindo ao meu perfil no GitHub! Sou [sua profissão ou área de estudo] apaixonado(a) por [tecnologias ou tópicos de interesse]. Aqui você encontrará meus projetos, colaborações e experiências.
+Bem-vindo ao meu perfil no GitHub! Sou estudante de TI , apaixonado(a) por Python. Aqui você encontrará meus projetos, colaborações e experiências.
 
 ## 🌱 Sobre Mim
 
