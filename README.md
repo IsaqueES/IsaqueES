@@ -1,16 +1,40 @@
-## Hi there 👋
+# Olá, sou [Seu Nome] 👋
 
-<!--
-**IsaquePy/IsaquePy** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Bem-vindo ao meu perfil no GitHub! Sou [sua profissão ou área de estudo] apaixonado(a) por [tecnologias ou tópicos de interesse]. Aqui você encontrará meus projetos, colaborações e experiências.
 
-Here are some ideas to get you started:
+## 🌱 Sobre Mim
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 📍 Localização: Brasil / Jacareí-SP
+- 🎓 Formação: Cursando TI integrado ao ensino médio
+- 💻 Tecnologias que uso:
+  - Python
+  - JS/HTML/CSS
+  - Express/Sequelize
+
+## 🚀 Projetos em Destaque
+
+### [[Nome do Projeto 1](link-do-projeto)](https://github.com/IsaquePy/TutorTime.git)
+- Descrição: O TutorTime é uma plataforma dedicada a facilitar a gestão de monitorias no campus do IFSP. Com um design intuitivo, o site permite que alunos e professores se conectem de forma eficiente, otimizando o processo de agendamento e acompanhamento das sessões de monitoria. Os usuários podem visualizar informações sobre disciplinas, monitores e horários disponíveis, garantindo que todos tenham acesso a suporte acadêmico de qualidade. Com o TutorTime, sua jornada de aprendizado se torna mais acessível e organizada!
+- Tecnologias utilizadas: ![Linguagens](https://img.shields.io/badge/languages-python%20%26%20javascript-blue)
+
+
+
+
+## 📫 Como Me Encontrar
+
+- [LinkedIn](link-do-seu-linkedin)
+- [Twitter](link-do-seu-twitter)
+- [Seu site ou portfólio](link-do-seu-portfolio)
+
+## 📈 Estatísticas
+
+![Estatísticas do GitHub](https://github-readme-stats.vercel.app/api?username=IsaquePy&show_icons=true&theme=radical)
+
+## 🤝 Contribuições
+
+Sinta-se à vontade para contribuir para os meus projetos! Agradeço qualquer ajuda e feedback.
+
+## 🎉 Obrigado por visitar meu perfil!
+
+---
+
