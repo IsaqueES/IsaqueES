@@ -12,7 +12,9 @@ Bem-vindo ao meu perfil no GitHub! Sou [sua profissão ou área de estudo] apaix
   ![HTML](https://img.shields.io/badge/HTML5-HTML5-orange?style=for-the-badge&logo=html5)
   ![CSS](https://img.shields.io/badge/CSS3-CSS3-blue?style=for-the-badge&logo=css3)<br>
   ![Express](https://img.shields.io/badge/Express.js-Framework-green?style=for-the-badge&logo=express)
-  ![Sequelize](https://img.shields.io/badge/Sequelize-ORM-blue?style=for-the-badge&logo=sequelize)
+  ![Sequelize](https://img.shields.io/badge/Sequelize-ORM-blue?style=for-the-badge&logo=sequelize)<br>
+  ![Node.js](https://img.shields.io/badge/Node.js-Node.js-green?style=for-the-badge&logo=node.js)
+
 
 
 ## 🚀 Projetos em Destaque
@@ -26,7 +28,8 @@ Bem-vindo ao meu perfil no GitHub! Sou [sua profissão ou área de estudo] apaix
 ![Handlebars](https://img.shields.io/badge/Handlebars-Template-blue?style=for-the-badge&logo=handlebars)<br>
 ![Express](https://img.shields.io/badge/Express.js-Framework-green?style=for-the-badge&logo=express)
 ![CSS](https://img.shields.io/badge/CSS3-CSS3-blue?style=for-the-badge&logo=css3)<br>
-![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-Framework-blue?style=for-the-badge&logo=tailwind-css)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-Framework-blue?style=for-the-badge&logo=tailwind-css)<br>
+  ![Node.js](https://img.shields.io/badge/Node.js-Node.js-green?style=for-the-badge&logo=node.js)
 
 
 
