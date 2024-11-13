@@ -22,7 +22,7 @@ Bem-vindo ao meu perfil no GitHub! Sou estudante de TI , apaixonado(a) por Pytho
 ### [TutorTime](https://github.com/IsaquePy/TutorTime.git)
 - Descrição: O TutorTime é uma plataforma dedicada a facilitar a gestão de monitorias no campus do IFSP. Com um design intuitivo, o site permite que alunos e professores se conectem de forma eficiente, otimizando o processo de agendamento e acompanhamento das sessões de monitoria. Os usuários podem visualizar informações sobre disciplinas, monitores e horários disponíveis, garantindo que todos tenham acesso a suporte acadêmico de qualidade. Com o TutorTime, sua jornada de aprendizado se torna mais acessível e organizada!
 - Tecnologias utilizadas: <br>
-![JavaScript](https://img.shields.io/badge/JavaScript-ES6-yellow?style=for-the-badge&logo=javascript)
+![JavaScript](https://img.shields.io/badge/JavaScript-ES6-yellow?style=for-the-badge&logo=javascript)<br>
 ![HTML](https://img.shields.io/badge/HTML5-HTML5-orange?style=for-the-badge&logo=html5)<br>
 ![Sequelize](https://img.shields.io/badge/Sequelize-ORM-blue?style=for-the-badge&logo=sequelize)
 ![Handlebars](https://img.shields.io/badge/Handlebars-Template-blue?style=for-the-badge&logo=handlebars)<br>
