@@ -14,11 +14,12 @@ Bem-vindo ao meu perfil no GitHub! Sou estudante de TI , apaixonado(a) por Pytho
   ![Express](https://img.shields.io/badge/Express.js-Framework-green?style=for-the-badge&logo=express)<br>
   ![Sequelize](https://img.shields.io/badge/Sequelize-ORM-blue?style=for-the-badge&logo=sequelize)<br>
   ![Node.js](https://img.shields.io/badge/Node.js-Node.js-green?style=for-the-badge&logo=node.js)<br>
-  ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)<br>
   ![Chalk](https://img.shields.io/badge/Chalk-000000?style=for-the-badge&logo=npm&logoColor=white)<br>
   ![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)<br>
   ![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)<br>
   ![Pygame](https://img.shields.io/badge/Pygame-232323?style=for-the-badge&logo=pygame&logoColor=white)<br>
+  ![Python Math](https://img.shields.io/badge/Python%20math-3776AB?style=for-the-badge&logo=python&logoColor=white)
+
 
 
 ## 🚀 Projetos em Destaque
