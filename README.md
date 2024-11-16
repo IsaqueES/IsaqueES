@@ -29,7 +29,19 @@ Bem-vindo ao meu perfil no GitHub! Sou estudante de TI , apaixonado(a) por Pytho
 ![Express](https://img.shields.io/badge/Express.js-Framework-green?style=for-the-badge&logo=express)
 ![CSS](https://img.shields.io/badge/CSS3-CSS3-blue?style=for-the-badge&logo=css3)<br>
 ![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-Framework-blue?style=for-the-badge&logo=tailwind-css)<br>
-  ![Node.js](https://img.shields.io/badge/Node.js-Node.js-green?style=for-the-badge&logo=node.js)
+![Node.js](https://img.shields.io/badge/Node.js-Node.js-green?style=for-the-badge&logo=node.js)<br>
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)<br>
+![Chalk](https://img.shields.io/badge/Chalk-000000?style=flat&logo=npm&logoColor=white)<br>
+![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=flat&logo=c%2B%2B&logoColor=white)<br>
+![Flask](https://img.shields.io/badge/Flask-000000?style=flat&logo=flask&logoColor=white)<br>
+![Pygame](https://img.shields.io/badge/Pygame-232323?style=flat&logo=pygame&logoColor=white)<br>
+![Math](https://img.shields.io/badge/Python%20math-3776AB?style=flat&logo=python&logoColor=white)<br>
+
+
+
+
+
+
 
 
 
