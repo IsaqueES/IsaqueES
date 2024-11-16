@@ -9,7 +9,7 @@ Bem-vindo ao meu perfil no GitHub! Sou estudante de TI , apaixonado(a) por Pytho
 - 💻 Tecnologias que uso:<br>
   ![Python](https://img.shields.io/badge/Python-Programming%20Language-blue?style=for-the-badge&logo=python)<br>
   ![JavaScript](https://img.shields.io/badge/JavaScript-ES6-yellow?style=for-the-badge&logo=javascript)<br>
-  ![HTML](https://img.shields.io/badge/HTML5-HTML5-orange?style=for-the-badge&logo=html5)
+  ![HTML](https://img.shields.io/badge/HTML5-HTML5-orange?style=for-the-badge&logo=html5)<br>
   ![CSS](https://img.shields.io/badge/CSS3-CSS3-blue?style=for-the-badge&logo=css3)<br>
   ![Express](https://img.shields.io/badge/Express.js-Framework-green?style=for-the-badge&logo=express)<br>
   ![Sequelize](https://img.shields.io/badge/Sequelize-ORM-blue?style=for-the-badge&logo=sequelize)<br>
