@@ -56,7 +56,7 @@ Bem-vindo ao meu perfil no GitHub! Sou estudante de TI , apaixonado(a) por Pytho
 
 ## 📈 Estatísticas
 
-![Estatísticas do GitHub](https://github-readme-stats.vercel.app/api?username=IsaqueES&show_icons=true&theme=radical)
+![Estatísticas do GitHub](https://github-readme-stats.vercel.app/api?username=IsaqueES&show_icons=true&theme=radical)![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=IsaqueES)
 
 ## 🤝 Contribuições
 
