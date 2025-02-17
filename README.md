@@ -44,9 +44,6 @@ Bem-vindo ao meu perfil no GitHub! Sou estudante de TI , apaixonado(a) por Pytho
 
 
 
-![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=IsaqueES)
-
-
 
 <!--## 📫 Como Me Encontrar
 
