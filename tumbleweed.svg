@@ -1,0 +1,39 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 800 220" width="800" height="220" role="img" aria-label="Uma bola de mato seco rolando pelo deserto">
+  <!-- céu -->
+  <rect width="800" height="220" fill="#f6e3b4" rx="12"/>
+  <!-- sol -->
+  <circle cx="680" cy="60" r="28" fill="#f4a43a" opacity="0.9"/>
+  <!-- dunas -->
+  <path d="M0 175 Q150 150 300 172 T600 168 T800 172 L800 220 L0 220 Z" fill="#e2b872"/>
+  <path d="M0 195 Q200 178 400 194 T800 192 L800 220 L0 220 Z" fill="#d4a15a"/>
+  <!-- cacto -->
+  <g fill="#6b8e4e">
+    <rect x="95" y="120" width="12" height="62" rx="6"/>
+    <rect x="76" y="140" width="9" height="22" rx="4.5"/>
+    <rect x="76" y="156" width="26" height="8" rx="4"/>
+    <rect x="117" y="132" width="9" height="20" rx="4.5"/>
+    <rect x="101" y="148" width="22" height="8" rx="4"/>
+  </g>
+
+  <!-- bola de mato rolando -->
+  <g>
+    <animateTransform attributeName="transform" type="translate" values="-80 0; 880 0" dur="9s" repeatCount="indefinite"/>
+    <g>
+      <animateTransform attributeName="transform" additive="sum" type="translate" values="0 0; 0 -10; 0 0; 0 -6; 0 0" keyTimes="0;0.25;0.5;0.75;1" dur="1.8s" repeatCount="indefinite"/>
+      <g transform="translate(0 150)">
+        <g>
+          <animateTransform attributeName="transform" type="rotate" from="0" to="360" dur="1.6s" repeatCount="indefinite"/>
+          <g fill="none" stroke="#8b5a2b" stroke-width="2" stroke-linecap="round">
+            <circle r="22"/>
+            <circle r="15" stroke-width="1.6"/>
+            <path d="M-22 0 Q0 -14 22 0 Q0 14 -22 0"/>
+            <path d="M0 -22 Q14 0 0 22 Q-14 0 0 -22"/>
+            <path d="M-16 -16 L16 16 M16 -16 L-16 16"/>
+            <path d="M-8 -20 Q4 -6 -2 10" stroke-width="1.4"/>
+            <path d="M10 -14 Q-4 2 8 18" stroke-width="1.4"/>
+          </g>
+        </g>
+      </g>
+    </g>
+  </g>
+</svg>
