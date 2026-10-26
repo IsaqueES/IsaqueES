@@ -53,17 +53,8 @@ isaque = {
 
 ## 🚀 Projetos
 
-### 🤖 A.T.E.N.T.O → Parsable
-Script em **Python + Selenium** que lê uma planilha Excel e preenche sozinho o checklist A.T.E.N.T.O no Parsable.
-
-### 📦 SAP EWM → Pulso
-Automação em **Python + Selenium** que exporta relatórios do SAP EWM (Fiori) e importa no site Pulso de produtividade.
-
 ### 🌾 Controle de romaneios por silo
 Conciliação de romaneios/NFs por silo contra o SAP, com um site de acompanhamento em desenvolvimento.
-
-### 🐭 Jogo da Vila de Criaturas
-Jogo de uma mini vila medieval de camundongos, morcegos e gatos que se reergue até o herói virar rei ou rainha. 👑
 
 ## 🌵 Repositórios públicos
 
